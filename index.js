@@ -19,7 +19,7 @@ const axios = require('axios')
 const { File } = require('megajs')
 const prefix = '.'
 
-const ownerNumber = ['94763711930']
+const ownerNumber = ['94760264994']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -75,7 +75,7 @@ let up = `🚀 *_THARU-MD Connected Successfully!_* ✅
 
 *🔹 PREFIX:* .
 
-*🔹 OWNER:* 94763711930
+*🔹 OWNER:* 94760264994
 
 *🔹 MADE BY:* Tharusha
 
@@ -164,15 +164,15 @@ if(senderNumber.includes("94763711930")){
 if(isReact) return
 m.react("👨🏻‍💻")
 }
-if(senderNumber.includes("94740671704")){
+if(senderNumber.includes("94760264994")){
 if(isReact) return
 m.react("👨🏼‍💻")
 }
-if(senderNumber.includes("94722843204")){
+if(senderNumber.includes("94760264994")){
 if(isReact) return
 m.react("👩🏽‍💻")
 }
-if(senderNumber.includes("94768844616")){
+if(senderNumber.includes("94760264994")){
 if(isReact) return
 m.react("👾")
 }
